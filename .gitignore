@@ -1,0 +1,14 @@
+*.exe
+*.dll
+*.so
+*.dylib
+nimcache/
+htmldocs/
+tests/*.js
+.acl-reports/
+.acl-recovery/
+build/
+nimble.paths
+sample.pmx
+*.obj
+*.mtl
